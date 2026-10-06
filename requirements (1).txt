@@ -1,0 +1,10 @@
+torch>=2.4
+torchvision
+timm>=0.9
+numpy
+Pillow
+tqdm
+scipy
+scikit-image
+opencv-python
+matplotlib
